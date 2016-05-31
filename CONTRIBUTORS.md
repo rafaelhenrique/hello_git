@@ -1,4 +1,4 @@
-Rafael Henrique da Silva Correia.
+Rafael Henrique da Silva Correia. <rafael@abraseucodigo.com.br>
 Thiago Lopes.
 Vinicius Celms De Augustinis
 Elton Andrade Rodrigues
